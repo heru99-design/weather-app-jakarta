@@ -1,2 +1,2 @@
 # weather-app-jakarta
-Tugas 2 - Aplikasi Cuaca Jakarta
+Tugas 2 Pemrograman Berbasis Perangkat Bergerak - Aplikasi Cuaca Jakarta
